@@ -7,3 +7,6 @@
 - [ ] Eval score printed
 - [ ] Fixture row count in hundreds; no production scrape claim
 - [ ] README links all five docs
+- [ ] Security smoke passes (JWT 401, injection 400, RBAC 403, redaction) and the audit log carries no token
+- [ ] Clinical and catalog fixtures stay in separate folders (test_fixture_separation passes)
+- [ ] No overclaim: stub mode, "not executed live" and deferred items are stated as such

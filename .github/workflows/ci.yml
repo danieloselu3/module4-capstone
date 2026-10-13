@@ -25,4 +25,4 @@ jobs:
       - name: Pins (prompt + knowledge corpus) and RAG smoke
         run: python -m services.triage.pins && python -m services.triage.rag_smoke
       - name: Starter-pack gates
-        run: python check_proposal.py && python check_integration_map.py
+        run: python check_proposal.py && python check_integration_map.py && python check_doc_links.py && python check_review_doc.py
