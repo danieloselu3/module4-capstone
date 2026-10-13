@@ -5,12 +5,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5          # added: the runner's system Python refuses pip installs
+        with: {fetch-depth: 0}                  # the smoke scans every ref's history for keys
+      - uses: actions/setup-python@v5          # the runner's system Python refuses pip installs
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
       - run: ruff check .
-      - run: pytest -q
-      - run: pytest tests/test_security_smoke.py -q
-      - run: python evals/run_eval.py evals/golden.jsonl
+      - name: Unit layer (default)
+        run: pytest -q
+      - name: Security smoke (Week 9)
+        run: pytest tests/test_security_smoke.py -q
+      - name: Integration layer (TestClient; the live-port httpx test skips without SERVICE_UP)
+        run: pytest -q -m integration
+      - name: Perf layer (timing stub + committed perf_stub.json)
+        run: pytest -q -m perf
+      - name: Golden-set eval (gate at 0.90)
+        run: python evals/run_eval.py evals/golden.jsonl --min 0.90
+      - name: Fixture diagnosis (every row agrees with the router)
+        run: python scripts/diagnose_fixture.py fixtures/triage_messages_sample.jsonl
+      - name: Pins (prompt + knowledge corpus) and RAG smoke
+        run: python -m services.triage.pins && python -m services.triage.rag_smoke
       - name: Starter-pack gates
         run: python check_proposal.py && python check_integration_map.py
