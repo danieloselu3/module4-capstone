@@ -1,0 +1,3 @@
+{"id": "G-001", "text": "fever", "expected_label": "triage"}
+{"id": "G-002", "text": "track delivery", "expected_label": "logistics_lookup"}
+{"id": "G-003", "text": "listing photo mismatch", "expected_label": "catalog_mismatch"}

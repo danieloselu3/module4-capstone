@@ -1,0 +1,300 @@
+{"id": "T-001", "text": "fever", "label": "triage"}
+{"id": "T-002", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-003", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-004", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-005", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-006", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-007", "text": "symptom check", "label": "triage"}
+{"id": "T-008", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-009", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-010", "text": "symptom check", "label": "triage"}
+{"id": "T-011", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-012", "text": "symptom check", "label": "triage"}
+{"id": "T-013", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-014", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-015", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-016", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-017", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-018", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-019", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-020", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-021", "text": "symptom check", "label": "triage"}
+{"id": "T-022", "text": "symptom check", "label": "triage"}
+{"id": "T-023", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-024", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-025", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-026", "text": "follow-up needed", "label": "triage"}
+{"id": "T-027", "text": "follow-up needed", "label": "triage"}
+{"id": "T-028", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-029", "text": "follow-up needed", "label": "triage"}
+{"id": "T-030", "text": "general question", "label": "triage"}
+{"id": "T-031", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-032", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-033", "text": "follow-up needed", "label": "triage"}
+{"id": "T-034", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-035", "text": "follow-up needed", "label": "triage"}
+{"id": "T-036", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-037", "text": "follow-up needed", "label": "triage"}
+{"id": "T-038", "text": "general question", "label": "triage"}
+{"id": "T-039", "text": "general question", "label": "triage"}
+{"id": "T-040", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-041", "text": "follow-up needed", "label": "triage"}
+{"id": "T-042", "text": "symptom check", "label": "triage"}
+{"id": "T-043", "text": "symptom check", "label": "triage"}
+{"id": "T-044", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-045", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-046", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-047", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-048", "text": "follow-up needed", "label": "triage"}
+{"id": "T-049", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-050", "text": "general question", "label": "triage"}
+{"id": "T-051", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-052", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-053", "text": "symptom check", "label": "triage"}
+{"id": "T-054", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-055", "text": "symptom check", "label": "triage"}
+{"id": "T-056", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-057", "text": "follow-up needed", "label": "triage"}
+{"id": "T-058", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-059", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-060", "text": "follow-up needed", "label": "triage"}
+{"id": "T-061", "text": "general question", "label": "triage"}
+{"id": "T-062", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-063", "text": "general question", "label": "triage"}
+{"id": "T-064", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-065", "text": "general question", "label": "triage"}
+{"id": "T-066", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-067", "text": "symptom check", "label": "triage"}
+{"id": "T-068", "text": "general question", "label": "triage"}
+{"id": "T-069", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-070", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-071", "text": "symptom check", "label": "triage"}
+{"id": "T-072", "text": "general question", "label": "triage"}
+{"id": "T-073", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-074", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-075", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-076", "text": "symptom check", "label": "triage"}
+{"id": "T-077", "text": "symptom check", "label": "triage"}
+{"id": "T-078", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-079", "text": "symptom check", "label": "triage"}
+{"id": "T-080", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-081", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-082", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-083", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-084", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-085", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-086", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-087", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-088", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-089", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-090", "text": "follow-up needed", "label": "triage"}
+{"id": "T-091", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-092", "text": "follow-up needed", "label": "triage"}
+{"id": "T-093", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-094", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-095", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-096", "text": "symptom check", "label": "triage"}
+{"id": "T-097", "text": "follow-up needed", "label": "triage"}
+{"id": "T-098", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-099", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-100", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-101", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-102", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-103", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-104", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-105", "text": "symptom check", "label": "triage"}
+{"id": "T-106", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-107", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-108", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-109", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-110", "text": "follow-up needed", "label": "triage"}
+{"id": "T-111", "text": "symptom check", "label": "triage"}
+{"id": "T-112", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-113", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-114", "text": "symptom check", "label": "triage"}
+{"id": "T-115", "text": "general question", "label": "triage"}
+{"id": "T-116", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-117", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-118", "text": "general question", "label": "triage"}
+{"id": "T-119", "text": "general question", "label": "triage"}
+{"id": "T-120", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-121", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-122", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-123", "text": "follow-up needed", "label": "triage"}
+{"id": "T-124", "text": "symptom check", "label": "triage"}
+{"id": "T-125", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-126", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-127", "text": "symptom check", "label": "triage"}
+{"id": "T-128", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-129", "text": "general question", "label": "triage"}
+{"id": "T-130", "text": "follow-up needed", "label": "triage"}
+{"id": "T-131", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-132", "text": "symptom check", "label": "triage"}
+{"id": "T-133", "text": "general question", "label": "triage"}
+{"id": "T-134", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-135", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-136", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-137", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-138", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-139", "text": "follow-up needed", "label": "triage"}
+{"id": "T-140", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-141", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-142", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-143", "text": "follow-up needed", "label": "triage"}
+{"id": "T-144", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-145", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-146", "text": "follow-up needed", "label": "triage"}
+{"id": "T-147", "text": "symptom check", "label": "triage"}
+{"id": "T-148", "text": "follow-up needed", "label": "triage"}
+{"id": "T-149", "text": "general question", "label": "triage"}
+{"id": "T-150", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-151", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-152", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-153", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-154", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-155", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-156", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-157", "text": "general question", "label": "triage"}
+{"id": "T-158", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-159", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-160", "text": "follow-up needed", "label": "triage"}
+{"id": "T-161", "text": "general question", "label": "triage"}
+{"id": "T-162", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-163", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-164", "text": "general question", "label": "triage"}
+{"id": "T-165", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-166", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-167", "text": "follow-up needed", "label": "triage"}
+{"id": "T-168", "text": "general question", "label": "triage"}
+{"id": "T-169", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-170", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-171", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-172", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-173", "text": "follow-up needed", "label": "triage"}
+{"id": "T-174", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-175", "text": "general question", "label": "triage"}
+{"id": "T-176", "text": "follow-up needed", "label": "triage"}
+{"id": "T-177", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-178", "text": "symptom check", "label": "triage"}
+{"id": "T-179", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-180", "text": "follow-up needed", "label": "triage"}
+{"id": "T-181", "text": "general question", "label": "triage"}
+{"id": "T-182", "text": "symptom check", "label": "triage"}
+{"id": "T-183", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-184", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-185", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-186", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-187", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-188", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-189", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-190", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-191", "text": "general question", "label": "triage"}
+{"id": "T-192", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-193", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-194", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-195", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-196", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-197", "text": "follow-up needed", "label": "triage"}
+{"id": "T-198", "text": "general question", "label": "triage"}
+{"id": "T-199", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-200", "text": "general question", "label": "triage"}
+{"id": "T-201", "text": "symptom check", "label": "triage"}
+{"id": "T-202", "text": "follow-up needed", "label": "triage"}
+{"id": "T-203", "text": "general question", "label": "triage"}
+{"id": "T-204", "text": "follow-up needed", "label": "triage"}
+{"id": "T-205", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-206", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-207", "text": "follow-up needed", "label": "triage"}
+{"id": "T-208", "text": "symptom check", "label": "triage"}
+{"id": "T-209", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-210", "text": "follow-up needed", "label": "triage"}
+{"id": "T-211", "text": "general question", "label": "triage"}
+{"id": "T-212", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-213", "text": "symptom check", "label": "triage"}
+{"id": "T-214", "text": "general question", "label": "triage"}
+{"id": "T-215", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-216", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-217", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-218", "text": "general question", "label": "triage"}
+{"id": "T-219", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-220", "text": "general question", "label": "triage"}
+{"id": "T-221", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-222", "text": "general question", "label": "triage"}
+{"id": "T-223", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-224", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-225", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-226", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-227", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-228", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-229", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-230", "text": "follow-up needed", "label": "triage"}
+{"id": "T-231", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-232", "text": "symptom check", "label": "triage"}
+{"id": "T-233", "text": "general question", "label": "triage"}
+{"id": "T-234", "text": "general question", "label": "triage"}
+{"id": "T-235", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-236", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-237", "text": "general question", "label": "triage"}
+{"id": "T-238", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-239", "text": "general question", "label": "triage"}
+{"id": "T-240", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-241", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-242", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-243", "text": "symptom check", "label": "triage"}
+{"id": "T-244", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-245", "text": "follow-up needed", "label": "triage"}
+{"id": "T-246", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-247", "text": "general question", "label": "triage"}
+{"id": "T-248", "text": "follow-up needed", "label": "triage"}
+{"id": "T-249", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-250", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-251", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-252", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-253", "text": "symptom check", "label": "triage"}
+{"id": "T-254", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-255", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-256", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-257", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-258", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-259", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-260", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-261", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-262", "text": "general question", "label": "triage"}
+{"id": "T-263", "text": "follow-up needed", "label": "triage"}
+{"id": "T-264", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-265", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-266", "text": "general question", "label": "triage"}
+{"id": "T-267", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-268", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-269", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-270", "text": "follow-up needed", "label": "triage"}
+{"id": "T-271", "text": "follow-up needed", "label": "triage"}
+{"id": "T-272", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-273", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-274", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-275", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-276", "text": "follow-up needed", "label": "triage"}
+{"id": "T-277", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-278", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-279", "text": "general question", "label": "triage"}
+{"id": "T-280", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-281", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-282", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-283", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-284", "text": "general question", "label": "triage"}
+{"id": "T-285", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-286", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-287", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-288", "text": "symptom check", "label": "triage"}
+{"id": "T-289", "text": "symptom check", "label": "triage"}
+{"id": "T-290", "text": "follow-up needed", "label": "triage"}
+{"id": "T-291", "text": "shipment delay", "label": "logistics_lookup"}
+{"id": "T-292", "text": "wrong sku listed", "label": "catalog_mismatch"}
+{"id": "T-293", "text": "follow-up needed", "label": "triage"}
+{"id": "T-294", "text": "track delivery", "label": "logistics_lookup"}
+{"id": "T-295", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-296", "text": "listing photo mismatch", "label": "catalog_mismatch"}
+{"id": "T-297", "text": "catalog title wrong", "label": "catalog_mismatch"}
+{"id": "T-298", "text": "where is my order", "label": "logistics_lookup"}
+{"id": "T-299", "text": "follow-up needed", "label": "triage"}
+{"id": "T-300", "text": "wrong sku listed", "label": "catalog_mismatch"}

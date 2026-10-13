@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+pytest
+python-dotenv
+ruff
+# model SDK: add the one your path uses, e.g. openai or anthropic

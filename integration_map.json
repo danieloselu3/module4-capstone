@@ -1,0 +1,7 @@
+[
+  {"artefact": "api", "path": "services/triage", "status": "copied"},
+  {"artefact": "tool", "path": "agents/tools/logistics.py", "status": "copied"},
+  {"artefact": "pins", "path": "services/triage/prompts/pin.json", "status": "adapted"},
+  {"artefact": "smoke", "path": "tests/test_security_smoke.py", "status": "copied"},
+    {"artefact": "catalog", "path": "services/catalog", "status": "deferred"}
+]
