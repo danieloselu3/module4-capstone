@@ -5,8 +5,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5          # added: the runner's system Python refuses pip installs
+        with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
       - run: ruff check .
       - run: pytest -q
       - run: pytest tests/test_security_smoke.py -q
       - run: python evals/run_eval.py evals/golden.jsonl
+      - name: Starter-pack gates
+        run: python check_proposal.py && python check_integration_map.py

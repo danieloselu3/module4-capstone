@@ -1,7 +1,14 @@
-fastapi
-uvicorn
-httpx
-pytest
-python-dotenv
-ruff
-# model SDK: add the one your path uses, e.g. openai or anthropic
+# Pinned from the Week 9 venv (afyaplus-week9). Stub mode needs no model SDK or key.
+fastapi==0.141.1
+uvicorn==0.54.0
+httpx==0.28.1
+pydantic==2.13.5
+PyJWT==2.15.0
+bcrypt==5.0.0
+python-dotenv==1.2.3
+mcp==1.30.0
+pytest==9.1.1
+ruff==0.14.0
+# docs/presentation.pdf is built by scripts/build_deck.py
+reportlab==5.0.1
+# model SDK: not installed. Stub mode is the only path this capstone runs (README fallbacks).

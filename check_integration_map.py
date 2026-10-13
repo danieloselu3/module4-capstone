@@ -1,6 +1,5 @@
 """Starter-pack gate. Checks artefact roles and path existence only, not domain words."""
 import json
-import sys
 from pathlib import Path
 
 REQUIRED_ARTEFACTS = {"api", "tool", "pins", "smoke"}

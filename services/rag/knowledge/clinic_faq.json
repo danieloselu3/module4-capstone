@@ -1,0 +1,16 @@
+[
+  {"id": "faq-ors", "title": "Diarrhoea and ORS at home",
+   "text": "For diarrhoea, give oral rehydration solution (ORS) sips often and keep feeding. Go to the clinic if there is blood in the stool, the person cannot drink, or there is no improvement in two days."},
+  {"id": "faq-fever", "title": "Fever in a child",
+   "text": "A child with fever should be tested for malaria at the clinic within 24 hours. Keep the child cool and give fluids. A fever with convulsions, stiff neck or drowsiness is an emergency."},
+  {"id": "faq-danger-signs", "title": "Danger signs: go now",
+   "text": "Chest pain, difficulty breathing, heavy bleeding, fainting, convulsions or unconsciousness are danger signs. Go to the nearest clinic or emergency care now; do not wait."},
+  {"id": "faq-malaria-net", "title": "Malaria prevention",
+   "text": "Sleep under a treated mosquito net every night, especially children and pregnant women. Fever after a mosquito bite season should be tested for malaria, not guessed."},
+  {"id": "faq-cough", "title": "Cough lasting more than two weeks",
+   "text": "A cough that lasts more than two weeks, or comes with night sweats and weight loss, needs a clinic visit for a TB test."},
+  {"id": "faq-antenatal", "title": "Antenatal care",
+   "text": "Pregnant women should attend antenatal care visits at the clinic. Bleeding, severe headache or swelling of the face in pregnancy needs care now."},
+  {"id": "faq-medicines", "title": "Medicines and doses",
+   "text": "This service never prescribes medicines or doses. A clinician or pharmacist decides any medicine after seeing the patient."}
+]

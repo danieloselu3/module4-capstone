@@ -1,0 +1,82 @@
+[
+ {
+   "sku": "KND-01",
+   "title": "Sisal kiondo bag, navy",
+   "description": "Handmade kiondo.",
+   "image": "images/knd-01.png",
+   "image_tags": ["kiondo", "bag", "sisal", "navy"],
+   "category": "bags"
+ },
+ {
+   "sku": "NK-99",
+   "title": "Nike Air Force 1 white",
+   "description": "Sneakers, size mixed.",
+   "image": "images/nk-99.png",
+   "image_tags": ["bag", "sisal", "woven"],
+   "category": "shoes"
+ },
+ {
+   "sku": "BAG-MID",
+   "title": "Navy tote bag",
+   "description": "Partial overlap teaching row.",
+   "image": "images/bag-mid.png",
+   "image_tags": ["bag", "cloth"],
+   "category": "bags"
+ },
+ {
+   "sku": "LSO-02",
+   "title": "Cotton leso, red black print",
+   "description": "Market leso, Mombasa seller.",
+   "image": "images/lso-02.png",
+   "image_tags": ["leso", "cloth", "red"],
+   "category": "textiles"
+ },
+ {
+   "sku": "KKO-03",
+   "title": "Striped kikoi wrap",
+   "description": "Cotton kikoi, shown worn by a model (teaching row for the privacy flag; tags only, no real photo).",
+   "image": "images/kko-03.png",
+   "image_tags": ["kikoi", "cloth", "striped", "person"],
+   "category": "textiles"
+ },
+ {
+   "sku": "LSO-08",
+   "title": "Kanga leso, yellow",
+   "description": "Teaching mismatch: the seller uploaded the wrong photo.",
+   "image": "images/lso-08.png",
+   "image_tags": ["maize", "flour", "white"],
+   "category": "textiles"
+ },
+ {
+   "sku": "SND-06",
+   "title": "Akala sandals, tyre sole",
+   "description": "Sandals cut from recycled tyres.",
+   "image": "images/snd-06.png",
+   "image_tags": ["sandals", "tyre", "shoe"],
+   "category": "shoes"
+ },
+ {
+   "sku": "SHO-07",
+   "title": "White canvas shoe",
+   "description": "Plain canvas shoe, size 42.",
+   "image": "images/sho-07.png",
+   "image_tags": ["shoe", "white", "canvas"],
+   "category": "shoes"
+ },
+ {
+   "sku": "MZF-04",
+   "title": "Unga wa mahindi 2kg",
+   "description": "Maize flour, Kiswahili title (teaching row for vocabulary gaps).",
+   "image": "images/mzf-04.png",
+   "image_tags": ["maize", "flour", "white"],
+   "category": "food"
+ },
+ {
+   "sku": "MZF-05",
+   "title": "Maize flour, white, 2kg",
+   "description": "Sifted maize flour.",
+   "image": "images/mzf-05.png",
+   "image_tags": ["maize", "flour", "white"],
+   "category": "food"
+ }
+]
