@@ -1,7 +1,12 @@
 [
-  {"artefact": "api", "path": "services/triage", "status": "copied"},
-  {"artefact": "tool", "path": "agents/tools/logistics.py", "status": "copied"},
-  {"artefact": "pins", "path": "services/triage/prompts/pin.json", "status": "adapted"},
-  {"artefact": "smoke", "path": "tests/test_security_smoke.py", "status": "copied"},
-    {"artefact": "catalog", "path": "services/catalog", "status": "deferred"}
+  {"artefact": "api", "path": "services/triage", "status": "adapted", "week": 6, "from": "afyaplus-platform / afyaplus-week9 auth.py + triage API (FastAPI, JWT, stub model)"},
+  {"artefact": "tool", "path": "agents/tools/logistics.py", "status": "adapted", "week": 7, "from": "afyaplus-week9 logistics_mcp.py check_stock (Week 9 one-clinic allowlist), FastMCP, stub mode"},
+  {"artefact": "cache", "path": "services/triage/model.py", "status": "adapted", "week": 7, "from": "afyaplus-week7 response_cache.py (exact-match key with prompt sha)"},
+  {"artefact": "pins", "path": "services/triage/prompts/pin.json", "status": "adapted", "week": 8, "from": "afyaplus-week8 prompts/pin.json + triage_system_v1.2.0.txt (same sha 85e5cb1d...)"},
+  {"artefact": "smoke", "path": "tests/test_security_smoke.py", "status": "adapted", "week": 9, "from": "starter smoke + afyaplus-week9 redact, injection guard, RBAC, JWT"},
+  {"artefact": "security", "path": "services/triage/security", "status": "copied", "week": 9, "from": "afyaplus-week9 security/ (injection_guard, rbac, audit_log)"},
+  {"artefact": "rag", "path": "services/rag", "status": "adapted", "week": 5, "from": "afyaplus-multimodal-intake knowledge.json (copied) + TF-IDF stub retriever"},
+  {"artefact": "catalog", "path": "services/catalog", "status": "copied", "week": 10, "from": "sokonihub-mm mismatch.py + catalog.json (own fixtures folder)"},
+  {"artefact": "eval", "path": "evals/golden.jsonl", "status": "adapted", "week": 8, "from": "Week 8 golden-set gate habit; starter run_eval.py"},
+  {"artefact": "fixture", "path": "fixtures/triage_messages_sample.jsonl", "status": "copied", "week": 11, "from": "starter pack, 300 synthetic rows"}
 ]

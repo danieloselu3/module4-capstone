@@ -1,0 +1,8 @@
+{
+  "model_id": "triage-stub-v1",
+  "live_model_id_not_called": "gpt-4o-mini-2024-07-18",
+  "prompt_version": "1.2.0",
+  "prompt_file": "triage_system_v1.2.0.txt",
+  "sha256": "85e5cb1d7efb85ccf4968ae0c0e6fb837cb8e2859afb999fbb006008cf8da148",
+  "source": "afyaplus-week9 prompts/triage_system_v1.2.0.txt (Week 8 pin, unchanged)"
+}

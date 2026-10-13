@@ -1,6 +1,5 @@
 """Starter-pack gate. Checks headings and scale wording only, not domain words."""
 import re
-import sys
 from pathlib import Path
 
 HEADS = ['Path', 'Dataset', 'Milestones']

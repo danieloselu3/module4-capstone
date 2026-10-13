@@ -10,7 +10,7 @@ from agents.router import route
 
 def main():
     path = Path(sys.argv[1] if len(sys.argv) > 1 else "evals/golden.jsonl")
-    rows = [json.loads(l) for l in path.read_text().splitlines() if l.strip()]
+    rows = [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
     correct = sum(1 for r in rows if route(r["text"]) == r["expected_label"])
     score = correct / len(rows) if rows else 0.0
     print(f"golden-set score: {correct}/{len(rows)} = {score:.2f}")

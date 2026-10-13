@@ -1,5 +1,4 @@
 """Starter-pack gate. Counts checklist items only, not domain words."""
-import sys
 from pathlib import Path
 
 

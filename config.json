@@ -1,9 +1,9 @@
 {
   "_comment": "Single place to rename this project. No other starter file needs an edit.",
-  "project_name": "<your domain>",
+  "project_name": "AfyaPlus Health Ops",
   "tools": ["triage", "logistics_lookup", "catalog_mismatch"],
   "route_keywords": {
-    "logistics_lookup": ["ship", "delivery", "logistics", "track"],
+    "logistics_lookup": ["ship", "delivery", "logistics", "track", "stock"],
     "catalog_mismatch": ["listing", "photo", "sku", "catalog"]
   },
   "endpoint_health": "/health",

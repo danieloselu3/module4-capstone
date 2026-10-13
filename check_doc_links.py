@@ -1,5 +1,4 @@
 """Starter-pack gate. Checks README mentions the doc pack, not domain words."""
-import sys
 from pathlib import Path
 
 REQUIRED = ['architecture', 'deployment', 'cost', 'user', 'build_checkpoint']
