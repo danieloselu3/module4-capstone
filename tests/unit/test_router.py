@@ -29,3 +29,12 @@ def test_gold_delivery_intent():
 
 def test_gold_listing_photo_intent():
     assert route("The listing photo for NK-99 shows a bag") == "catalog_mismatch"
+
+
+# Fixture incident regression (docs/incidents/fixture_incident.md)
+def test_where_is_my_order_is_logistics():
+    assert route("where is my order") == "logistics_lookup"
+
+
+def test_clinical_disorder_is_not_misrouted_to_logistics():
+    assert route("support for an eating disorder") == "triage"
