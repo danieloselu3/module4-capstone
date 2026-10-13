@@ -1,3 +1,32 @@
 {"id": "G-001", "text": "fever", "expected_label": "triage"}
 {"id": "G-002", "text": "track delivery", "expected_label": "logistics_lookup"}
 {"id": "G-003", "text": "listing photo mismatch", "expected_label": "catalog_mismatch"}
+{"id": "G-004", "text": "My child has had a fever since yesterday", "expected_label": "triage"}
+{"id": "G-005", "text": "chest pain and I feel dizzy", "expected_label": "triage"}
+{"id": "G-006", "text": "diarrhoea for two days, should I give ORS?", "expected_label": "triage"}
+{"id": "G-007", "text": "cough for three weeks with night sweats", "expected_label": "triage"}
+{"id": "G-008", "text": "she fainted at the market", "expected_label": "triage"}
+{"id": "G-009", "text": "headache and vomiting this morning", "expected_label": "triage"}
+{"id": "G-010", "text": "pregnant and swelling of the face", "expected_label": "triage"}
+{"id": "G-011", "text": "support for an eating disorder", "expected_label": "triage"}
+{"id": "G-012", "text": "Mtoto ana homa kali", "expected_label": "triage"}
+{"id": "G-013", "text": "rash on the arms after the clinic visit", "expected_label": "triage"}
+{"id": "G-014", "text": "How much ORS stock is at C04?", "expected_label": "logistics_lookup"}
+{"id": "G-015", "text": "amoxicillin stock at Vihiga C02", "expected_label": "logistics_lookup"}
+{"id": "G-016", "text": "Is the malaria kit delivery to C05 late?", "expected_label": "logistics_lookup"}
+{"id": "G-017", "text": "where is my order of ORS sachets", "expected_label": "logistics_lookup"}
+{"id": "G-018", "text": "shipment delay for Homa Bay", "expected_label": "logistics_lookup"}
+{"id": "G-019", "text": "can you track the amoxicillin consignment", "expected_label": "logistics_lookup"}
+{"id": "G-020", "text": "logistics update for Kisumu Central", "expected_label": "logistics_lookup"}
+{"id": "G-021", "text": "check stock levels at C01", "expected_label": "logistics_lookup"}
+{"id": "G-022", "text": "the listing photo for NK-99 shows a bag", "expected_label": "catalog_mismatch"}
+{"id": "G-023", "text": "wrong sku listed for the kiondo", "expected_label": "catalog_mismatch"}
+{"id": "G-024", "text": "catalog title wrong on LSO-08", "expected_label": "catalog_mismatch"}
+{"id": "G-025", "text": "does the photo match the title of KND-01", "expected_label": "catalog_mismatch"}
+{"id": "G-026", "text": "review the listing MZF-04", "expected_label": "catalog_mismatch"}
+{"id": "G-027", "text": "general question", "expected_label": "triage"}
+{"id": "G-028", "text": "follow-up needed after malaria test", "expected_label": "triage"}
+{"id": "G-029", "text": "my baby is not breathing well", "expected_label": "triage"}
+{"id": "G-030", "text": "when will the delivery of malaria kits arrive", "expected_label": "logistics_lookup"}
+{"id": "G-031", "text": "we ran out of amoxicillin at Kisii", "expected_label": "logistics_lookup"}
+{"id": "G-032", "text": "the picture on my product page is the wrong item", "expected_label": "catalog_mismatch"}
